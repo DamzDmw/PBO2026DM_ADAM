@@ -10,7 +10,7 @@ public class mahasiswa {
         System.out.println("Nama: "+nama);
         System.out.println("NIM: "+nim);
         System.out.println("Umur: "+umur);
-        System.out.println("====================");
+        System.out.println("====================");0
     }
     
     public void sapa(String yangDiSapa){
